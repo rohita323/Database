@@ -1,0 +1,18 @@
+NUM_PAGES 8
+PAGESIZE 32
+PATH_FOR_DATA ./
+BEGIN
+countries
+ID, int
+CODE, String
+NAME, String
+CONTINENT, String
+END
+BEGIN
+persons
+address, VARCHAR(255)
+personid, INTEGER
+lastname, VARCHAR(255)
+firstname, VARCHAR(255)
+city, VARCHAR(255)
+END

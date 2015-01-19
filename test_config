@@ -1,0 +1,29 @@
+PAGESIZE 256
+NUM_PAGES 2
+PATH_FOR_DATA ./
+BEGIN
+test
+employee_id,int
+employee_name,string
+3rd,string
+4th,string
+5th,string
+6th,string
+7th,string
+8th,string
+9th,string
+10th,string
+END
+BEGIN
+test3
+employee_id,int
+employee_name,string
+3rd,string
+4th,string
+5th,string
+6th,string
+7th,string
+8th,string
+9th,string
+10th,string
+END

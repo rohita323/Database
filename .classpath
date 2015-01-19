@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="fdb-sql-parser-1.4.0.jar"/>
+	<classpathentry kind="lib" path="net.sourceforge.lpg.lpgjavaruntime_1.1.0.v200803061910 (1).jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.runtime-3.1.0.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.modelbase.sql-1.0.6.v201208230744.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.modelbase.sql.query_1.1.1.v201008100700.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.sqltools.parsers.sql_1.0.2.v201004291415.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.sqltools.parsers.sql.lexer_1.0.1.v200805152355.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.sqltools.parsers.sql.query_1.2.0.v201004291415.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.datatools.sqltools.sql_1.0.0.v200805152355.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.emf.common.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.emf.ecore.jar"/>
+	<classpathentry kind="lib" path="org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
